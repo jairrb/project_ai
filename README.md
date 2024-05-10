@@ -33,3 +33,5 @@ Em tempos de crise e tragédias, a confiabilidade da informação é crucial par
 ### Implementação
 
 - O detector de fake news pode ser implementado utilizando a biblioteca Gemini do Google AI. O modelo Gemini foi treinado com um conjunto de dados de notícias reais e falsas, permitindo que ele identifique padrões e características que indicam a veracidade da informação.
+
+**Contribua para um ambiente online mais confiável!**
