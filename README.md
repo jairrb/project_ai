@@ -10,7 +10,7 @@ Em tempos de crise e tragédias, a confiabilidade da informação é crucial par
 
 ### Funcionalidades
 
-Análise de Texto: O detector analisa o conteúdo textual da notícia, buscando padrões e características que indicam a probabilidade de ser falsa.
+** Análise de Texto: ** O detector analisa o conteúdo textual da notícia, buscando padrões e características que indicam a probabilidade de ser falsa.
 
 Identificação de Fake News: Com base na análise, o detector indica a probabilidade de a notícia ser falsa, juntamente com as justificativas que embasam essa classificação.
 
