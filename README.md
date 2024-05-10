@@ -1,5 +1,7 @@
 # Detector de Fake News 
 
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
 ## Script Python para Combater a Desinformação
 
 ### Introdução
