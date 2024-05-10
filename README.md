@@ -25,3 +25,11 @@ Em tempos de crise e tragédias, a confiabilidade da informação é crucial par
 - Promoção da Veracidade: Contribui para a promoção de um ambiente online mais confiável e informativo, onde os usuários podem tomar decisões baseadas em fatos reais.
 
 - Transparência: A explicação detalhada das características que levaram à classificação permite que o usuário compreenda melhor o processo de análise e avalie criticamente a informação.
+
+### Aplicações
+
+- Verificação de Notícias: Utilize o detector para verificar a veracidade de notícias antes de compartilhar ou acreditar nelas.
+
+### Implementação
+
+- O detector de fake news pode ser implementado utilizando a biblioteca Gemini do Google AI. O modelo Gemini foi treinado com um conjunto de dados de notícias reais e falsas, permitindo que ele identifique padrões e características que indicam a veracidade da informação.
