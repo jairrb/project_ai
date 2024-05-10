@@ -12,23 +12,23 @@ Em tempos de crise e tragédias, a confiabilidade da informação é crucial par
 
 ### Funcionalidades
 
-- Análise de Texto: O detector analisa o conteúdo textual da notícia, buscando padrões e características que indicam a probabilidade de ser falsa.
+- **Análise de Texto:** O detector analisa o conteúdo textual da notícia, buscando padrões e características que indicam a probabilidade de ser falsa.
 
-- Identificação de Fake News: Com base na análise, o detector indica a probabilidade de a notícia ser falsa, juntamente com as justificativas que embasam essa classificação.
+- **Identificação de Fake News:** Com base na análise, o detector indica a probabilidade de a notícia ser falsa, juntamente com as justificativas que embasam essa classificação.
 
-- Explicação Detalhada: O detector fornece uma explicação detalhada das características que levaram à classificação, permitindo que o usuário compreenda melhor os motivos da análise.
+- **Explicação Detalhada:** O detector fornece uma explicação detalhada das características que levaram à classificação, permitindo que o usuário compreenda melhor os motivos da análise.
 
 ### Benefícios
 
-- Combate à Desinformação: Auxilia na redução da propagação de notícias falsas, protegendo os usuários de informações enganosas e prejudiciais.
+- **Combate à Desinformação:** Auxilia na redução da propagação de notícias falsas, protegendo os usuários de informações enganosas e prejudiciais.
 
-- Promoção da Veracidade: Contribui para a promoção de um ambiente online mais confiável e informativo, onde os usuários podem tomar decisões baseadas em fatos reais.
+- **Promoção da Veracidade:** Contribui para a promoção de um ambiente online mais confiável e informativo, onde os usuários podem tomar decisões baseadas em fatos reais.
 
-- Transparência: A explicação detalhada das características que levaram à classificação permite que o usuário compreenda melhor o processo de análise e avalie criticamente a informação.
+- **Transparência:** A explicação detalhada das características que levaram à classificação permite que o usuário compreenda melhor o processo de análise e avalie criticamente a informação.
 
 ### Aplicações
 
-- Verificação de Notícias: Utilize o detector para verificar a veracidade de notícias antes de compartilhar ou acreditar nelas.
+- **Verificação de Notícias:** Utilize o detector para verificar a veracidade de notícias antes de compartilhar ou acreditar nelas.
 
 ### Implementação
 
