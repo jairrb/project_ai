@@ -1,4 +1,4 @@
-# Detector de Fake News 
+# Detector de Fake News PyGemini
 
 ![](https://github.com/jairrb/project_ai/blob/main/py_fake_news.png)
 
